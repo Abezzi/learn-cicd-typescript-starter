@@ -10,7 +10,7 @@ describe("person", () => {
     expect(person).toBeDefined();
   });
 
-  // test
+  // test!
   test("is active", () => {
     expect(person.isActive).toBeTruthy();
   });
